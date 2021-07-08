@@ -1,1 +1,0 @@
-let peso:number = 20;
