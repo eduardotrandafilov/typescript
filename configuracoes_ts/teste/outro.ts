@@ -1,1 +1,1 @@
-let idade:number = 20;
+let peso:number = 20;
